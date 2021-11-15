@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonobothehappyape known as Dimitris
 - 👀 I’m interested in full stack programming with Javascript, Java and Python 
-- 🌱 I’m currently learning the React ecosystem and Quarkus with JAva
-- 💞️ I’m looking to collaborate on small scale opensource ideas
+- 🌱 I’m currently learning the React ecosystem and Quarkus with Java
+- 💞️ I’m looking to collaborate on small scale open source projects
 - 📫 How to reach me: https://linkedin.com/in/dasvestis https://twitter.com/dasvestis
 
 <!---
